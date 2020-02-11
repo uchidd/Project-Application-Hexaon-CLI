@@ -20,6 +20,7 @@ export default class DrawerNavigator extends Component{
     render(){
         return(
             <AppContainerNavigator/>
+            //Test atau apa
         )
     }
 }
